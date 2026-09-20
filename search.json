@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Replace the placeholders below with your real background, or swap this page for a link to a downloadable PDF resume."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nDegree, Institution — Year"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\n\nJob Title, Company — Years\n\nKey responsibility or achievement"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\n\nSkill 1, Skill 2, Skill 3"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "CV",
+    "section": "Publications",
+    "text": "Publications\n\nPlaceholder publication citation"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Replace these placeholders with your real projects.\n\n\nProject One\nShort description of the project. Repo\n\n\nProject Two\nShort description of the project. Repo"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Md Kamrul Hasan",
+    "section": "",
+    "text": "Hi, I’m Md Kamrul Hasan — add a one-line tagline here, e.g. “Software Engineer” or “Researcher in …”."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Md Kamrul Hasan",
+    "section": "About Me",
+    "text": "About Me\nReplace this paragraph with a few sentences about your background, interests, and what you’re currently working on."
+  },
+  {
+    "objectID": "index.html#find-me-online",
+    "href": "index.html#find-me-online",
+    "title": "Md Kamrul Hasan",
+    "section": "Find Me Online",
+    "text": "Find Me Online\n\nGitHub\nLinkedIn"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach out:\n\nEmail: khasan.bd@gmail.com\nGitHub: github.com/mdkamrulhasan\nLinkedIn: add your LinkedIn URL"
+  }
+]
