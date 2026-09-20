@@ -1,0 +1,22 @@
+---
+title: "CV"
+---
+
+> Replace the placeholders below with your real background, or swap this page for a link to a downloadable PDF resume.
+
+## Education
+
+- **Degree**, Institution — Year
+
+## Experience
+
+- **Job Title**, Company — Years
+  - Key responsibility or achievement
+
+## Skills
+
+- Skill 1, Skill 2, Skill 3
+
+## Publications
+
+- Placeholder publication citation

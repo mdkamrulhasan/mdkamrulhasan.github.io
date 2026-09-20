@@ -1,0 +1,14 @@
+---
+title: "Md Kamrul Hasan"
+---
+
+Hi, I'm **Md Kamrul Hasan** — _add a one-line tagline here, e.g. "Software Engineer" or "Researcher in ..."_.
+
+## About Me
+
+_Replace this paragraph with a few sentences about your background, interests, and what you're currently working on._
+
+## Find Me Online
+
+- [GitHub](https://github.com/mdkamrulhasan)
+- [LinkedIn](#) <!-- add your LinkedIn URL -->
