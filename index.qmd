@@ -2,13 +2,17 @@
 title: "Md Kamrul Hasan"
 ---
 
-Hi, I'm **Md Kamrul Hasan** — _add a one-line tagline here, e.g. "Software Engineer" or "Researcher in ..."_.
+**Assistant Professor | AI & Machine Learning Researcher**
 
 ## About Me
 
-_Replace this paragraph with a few sentences about your background, interests, and what you're currently working on._
+I am an Assistant Professor in the Department of Information Sciences & Technologies at Grand Valley State University. My research focuses on **artificial intelligence, machine learning, generative AI, and multimodal data analytics**, with applications in **precision agriculture, healthcare, environmental monitoring, and intelligent information systems**.
+
+My work explores how heterogeneous data—including text, images, sensor observations, satellite imagery, and geospatial information—can be integrated to develop practical and data-driven solutions to real-world problems. I am particularly interested in **multimodal learning, predictive modeling, deep learning, and trustworthy AI**.
+
+I also enjoy teaching and mentoring students in machine learning, data science, and software engineering, and collaborating on interdisciplinary research that connects computing with real-world applications.
 
 ## Find Me Online
 
 - [GitHub](https://github.com/mdkamrulhasan)
-- [LinkedIn](#) <!-- add your LinkedIn URL -->
+- [LinkedIn](#) <!-- https://www.linkedin.com/in/kamrul-hasan-ph-d-696b9365/ -->
