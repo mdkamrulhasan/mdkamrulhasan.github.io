@@ -63,6 +63,20 @@
     "text": "Find Me Online\n\nGitHub\nLinkedIn"
   },
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Courses I am currently teaching at Grand Valley State University. Course repositories on GitHub contain lecture slides, notebooks, and other supporting materials; official announcements, assignments, and grades are handled through Blackboard."
+  },
+  {
+    "objectID": "teaching.html#fall-2026",
+    "href": "teaching.html#fall-2026",
+    "title": "Teaching",
+    "section": "Fall 2026",
+    "text": "Fall 2026\n\n\n\n\nCIS 635 — Data Mining and Knowledge Discovery\nAn introduction to computational methods for knowledge discovery and data mining, covering data preparation, exploratory data analysis, predictive modeling, clustering, and association analysis using Python.\n\nSyllabus\nSchedule\nLecture Slides & Notebooks\nGitHub Repository\n\n\n\n\n\n\nSE 413/513 — Software Testing\nAn introduction to fundamental software testing principles and their practical application using Python-based testing tools, covering test design, automation, and evaluation across the software development lifecycle.\n\nSyllabus\nSchedule\nLecture Slides\nGitHub Repository"
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
