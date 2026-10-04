@@ -1,0 +1,38 @@
+---
+title: "AI for Cybersecurity & AI Safety"
+---
+
+[← Back to Research](index.qmd)
+
+Applying AI to cybersecurity, and developing secure and trustworthy AI systems.
+
+![Dark-background diagram of an embedding space. A cluster of blue benign network nodes sits in one region and a cluster of red attack nodes sits in another. A dashed detector boundary separates them, and orange arrows show attack samples disguised as benign ones, crossing the boundary.](../images/research/cyber-hero-graphic.png){width=100%}
+
+_Figure: Semantic mimicry: attacks disguised in the language of normal behavior cross a detector boundary designed to separate benign from malicious samples._
+
+## Research Topics
+
+- Zero-day and zero-shot threat detection
+- Network intrusion detection
+- Semantic threat representation
+- Generative AI for cybersecurity
+- LLM security and AI red teaming
+- RAG and GraphRAG
+- Trustworthy and secure generative AI
+
+## Key Research Questions
+
+_Draft for your review._
+
+- How can intrusion detection identify attack classes never seen during training?
+- How can LLM-based systems be evaluated for safety failures through automated red teaming?
+
+## Selected Publications
+
+**Zero-Shot Network Intrusion Detection Using Semantic Learning and CVAE Augmentation**
+H. Ogamba, K. Hasan, S. Mansour. _IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT_, 2026. [DOI](https://doi.org/10.1109/satc69565.2026.11542560)
+
+**Benchmarking the Effectiveness of AI-Driven Red Teaming Across Safety-Aligned Language Models**
+J. Malicha, K. Hasan. _IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT_, 2026. [DOI](https://doi.org/10.1109/satc69565.2026.11542221)
+
+_Full-text links are pending._

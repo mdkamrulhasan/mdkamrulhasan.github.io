@@ -1,0 +1,43 @@
+---
+title: "Generalizable & Trustworthy Machine Learning"
+---
+
+[← Back to Research](index.qmd)
+
+Machine learning and AI methods that generalize beyond their training data and operate effectively with limited, heterogeneous, uncertain, or multimodal data.
+
+![Four panels on a two-moons toy dataset. A linear classifier with labeled data only (a) and with unlabeled data (b) barely changes its boundary. A flexible RBF classifier with labeled data only (c) fits a smooth curve, while with unlabeled data (d) its boundary wraps around both moon-shaped classes.](../images/research/rim2015-fig3-complexity-noisy-labels.png){width=100%}
+
+_Figure: Effect of classifier complexity and noisy-label learning on a two-moons dataset. Unlabeled data helps the flexible RBF classifier far more than the linear one. Source: Rim, Hasan, Puech, and Pal (2015), Fig. 3._
+
+## Research Topics
+
+- Deep and probabilistic machine learning
+- Semi-supervised and weakly supervised learning
+- Generative AI and generative models
+- Multimodal learning
+- Representation learning
+- Robustness, generalization, and trustworthy AI
+
+## Key Research Questions
+
+_Draft for your review._
+
+- How can models learn useful representations from weakly labeled or partially labeled data?
+- How can probabilistic and generative models stay reliable when data are limited or uncertain?
+
+## Selected Publications
+
+**Learning from Weakly Labeled Faces and Video in the Wild**
+D. Rim, K. Hasan, F. Puech, C. Pal. _Pattern Recognition_, 48(3), 759–771, 2015. [DOI](https://doi.org/10.1016/j.patcog.2014.09.016)
+
+**Semi-Supervised Learning for Wild Faces and Video**
+D. Rim, K. Hasan, C. Pal. _British Machine Vision Conference (BMVC)_, 2011. [DOI](https://doi.org/10.5244/C.25.3)
+
+**Improving Facial Analysis and Performance Driven Animation through Disentangling Identity and Expression**
+D. Rim, S. Honari, K. Hasan, C. J. Pal. _Image and Vision Computing_, 52, 125–140, 2016. [DOI](https://doi.org/10.1016/j.imavis.2016.04.017)
+
+**A New Smooth Approximation to the Zero One Loss with a Probabilistic Interpretation**
+K. Hasan, C. Pal. _ACM Transactions on Knowledge Discovery from Data (TKDD)_, 2019. [DOI](https://doi.org/10.1145/3365672)
+
+_Full-text links are pending._

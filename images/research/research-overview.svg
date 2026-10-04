@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" role="img" aria-labelledby="ro-title ro-desc">
+  <title id="ro-title">Research program overview</title>
+  <desc id="ro-desc">A central hub labeled Generalizable and Trustworthy AI connects to three research tracks: machine learning from weak and multimodal data, AI for cybersecurity and AI safety, and AI for scientific and societal applications.</desc>
+  <defs>
+    <linearGradient id="hub" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2780e3"/>
+      <stop offset="100%" stop-color="#9954bb"/>
+    </linearGradient>
+    <filter id="soft" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#1f2d3d" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="480" rx="18" fill="#f5f9fd"/>
+
+  <g fill="none" stroke="#b9c7d6" stroke-width="2.5">
+    <path d="M600 195 C600 220 200 205 200 240"/>
+    <path d="M600 195 L600 240"/>
+    <path d="M600 195 C600 220 1000 205 1000 240"/>
+  </g>
+
+  <circle cx="600" cy="110" r="88" fill="url(#hub)" filter="url(#soft)"/>
+  <text x="600" y="104" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Generalizable &amp;</text>
+  <text x="600" y="130" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Trustworthy AI</text>
+
+  <g filter="url(#soft)">
+    <rect x="40" y="240" width="320" height="210" rx="14" fill="#ffffff" stroke="#2780e3" stroke-width="2"/>
+    <rect x="440" y="240" width="320" height="210" rx="14" fill="#ffffff" stroke="#9954bb" stroke-width="2"/>
+    <rect x="840" y="240" width="320" height="210" rx="14" fill="#ffffff" stroke="#1e8a4c" stroke-width="2"/>
+  </g>
+
+  <!-- Track 1: weakly labeled data feeding a decision boundary -->
+  <g>
+    <line x1="62" y1="352" x2="338" y2="262" stroke="#1f2d3d" stroke-width="2" stroke-dasharray="6 5"/>
+    <g fill="#2780e3">
+      <circle cx="85" cy="272" r="10"/>
+      <circle cx="169" cy="272" r="10"/>
+      <circle cx="253" cy="272" r="10"/>
+      <circle cx="127" cy="306" r="10"/>
+      <circle cx="295" cy="306" r="10"/>
+    </g>
+    <g fill="#ffffff" stroke="#2780e3" stroke-width="2">
+      <circle cx="211" cy="306" r="10"/>
+      <circle cx="85" cy="340" r="10"/>
+      <circle cx="169" cy="340" r="10"/>
+      <circle cx="253" cy="340" r="10"/>
+      <circle cx="295" cy="340" r="10"/>
+    </g>
+    <g fill="#9ec5f2">
+      <circle cx="127" cy="340" r="10"/>
+      <circle cx="211" cy="272" r="10"/>
+      <circle cx="337" cy="272" r="0"/>
+    </g>
+    <text x="200" y="384" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#1f2d3d">Machine Learning</text>
+    <text x="200" y="410" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#5a6470">weak labels · multimodal · probabilistic</text>
+  </g>
+
+  <!-- Track 2: shield with network nodes -->
+  <g>
+    <g stroke="#9954bb" stroke-width="2" fill="none" opacity="0.7">
+      <line x1="600" y1="300" x2="500" y2="282"/>
+      <line x1="600" y1="300" x2="700" y2="282"/>
+      <line x1="600" y1="300" x2="508" y2="348"/>
+      <line x1="600" y1="300" x2="692" y2="348"/>
+    </g>
+    <g fill="#9954bb" opacity="0.85">
+      <circle cx="500" cy="282" r="7"/>
+      <circle cx="700" cy="282" r="7"/>
+      <circle cx="508" cy="348" r="7"/>
+      <circle cx="692" cy="348" r="7"/>
+    </g>
+    <path d="M600 272 L626 282 L626 310 Q626 330 600 342 Q574 330 574 310 L574 282 Z" fill="#9954bb" opacity="0.92"/>
+    <path d="M588 306 L597 316 L614 296" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="600" y="384" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#1f2d3d">Cybersecurity &amp; AI Safety</text>
+    <text x="600" y="410" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#5a6470">zero-day detection · LLM red teaming</text>
+  </g>
+
+  <!-- Track 3: sensor grid over a land-cover map -->
+  <g>
+    <g>
+      <rect x="880" y="262" width="34" height="22" rx="3" fill="#c8eac0"/>
+      <rect x="918" y="262" width="34" height="22" rx="3" fill="#8fd17e"/>
+      <rect x="956" y="262" width="34" height="22" rx="3" fill="#3fb618"/>
+      <rect x="994" y="262" width="34" height="22" rx="3" fill="#8fd17e"/>
+      <rect x="1032" y="262" width="34" height="22" rx="3" fill="#c8eac0"/>
+      <rect x="1070" y="262" width="34" height="22" rx="3" fill="#e4f5dc"/>
+      <rect x="880" y="288" width="34" height="22" rx="3" fill="#3fb618"/>
+      <rect x="918" y="288" width="34" height="22" rx="3" fill="#1e8a4c"/>
+      <rect x="956" y="288" width="34" height="22" rx="3" fill="#8fd17e"/>
+      <rect x="994" y="288" width="34" height="22" rx="3" fill="#1e8a4c"/>
+      <rect x="1032" y="288" width="34" height="22" rx="3" fill="#8fd17e"/>
+      <rect x="1070" y="288" width="34" height="22" rx="3" fill="#3fb618"/>
+      <rect x="880" y="314" width="34" height="22" rx="3" fill="#8fd17e"/>
+      <rect x="918" y="314" width="34" height="22" rx="3" fill="#c8eac0"/>
+      <rect x="956" y="314" width="34" height="22" rx="3" fill="#1e8a4c"/>
+      <rect x="994" y="314" width="34" height="22" rx="3" fill="#3fb618"/>
+      <rect x="1032" y="314" width="34" height="22" rx="3" fill="#c8eac0"/>
+      <rect x="1070" y="314" width="34" height="22" rx="3" fill="#8fd17e"/>
+    </g>
+    <g fill="#ffffff" stroke="#1f2d3d" stroke-width="2">
+      <circle cx="935" cy="273" r="5"/>
+      <circle cx="1088" cy="325" r="5"/>
+    </g>
+    <text x="1000" y="384" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#1f2d3d">Scientific &amp; Societal AI</text>
+    <text x="1000" y="410" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#5a6470">soil moisture · precision agriculture · health</text>
+  </g>
+</svg>

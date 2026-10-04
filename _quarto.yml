@@ -13,8 +13,8 @@ website:
         text: CV
       - href: teaching.qmd
         text: Teaching
-      - href: projects.qmd
-        text: Projects
+      - href: research/index.qmd
+        text: Research
       - href: contact.qmd
         text: Contact
     right:

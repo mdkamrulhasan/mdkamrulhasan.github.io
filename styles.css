@@ -1,6 +1,7 @@
 /* css styles */
 
-.course-card {
+.course-card,
+.research-card {
   border: 1px solid #e3e3e3;
   border-radius: 12px;
   padding: 1.25rem;
