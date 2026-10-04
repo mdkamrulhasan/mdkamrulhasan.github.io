@@ -1,45 +1,150 @@
 [
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to reach out:\n\nEmail: hasanka@gvsu.edu\nGitHub: github.com/mdkamrulhasan\nLinkedIn: linkedin.com/in/kamrul-hasan-ph-d-696b9365"
+  },
+  {
+    "objectID": "research/cybersecurity.html",
+    "href": "research/cybersecurity.html",
+    "title": "AI for Cybersecurity & AI Safety",
+    "section": "",
+    "text": "← Back to Research\nApplying AI to cybersecurity, and developing secure and trustworthy AI systems.\nFigure: Semantic mimicry: attacks disguised in the language of normal behavior cross a detector boundary designed to separate benign from malicious samples."
+  },
+  {
+    "objectID": "research/cybersecurity.html#research-topics",
+    "href": "research/cybersecurity.html#research-topics",
+    "title": "AI for Cybersecurity & AI Safety",
+    "section": "Research Topics",
+    "text": "Research Topics\n\nZero-day and zero-shot threat detection\nNetwork intrusion detection\nSemantic threat representation\nGenerative AI for cybersecurity\nLLM security and AI red teaming\nRAG and GraphRAG\nTrustworthy and secure generative AI"
+  },
+  {
+    "objectID": "research/cybersecurity.html#key-research-questions",
+    "href": "research/cybersecurity.html#key-research-questions",
+    "title": "AI for Cybersecurity & AI Safety",
+    "section": "Key Research Questions",
+    "text": "Key Research Questions\nDraft for your review.\n\nHow can intrusion detection identify attack classes never seen during training?\nHow can LLM-based systems be evaluated for safety failures through automated red teaming?"
+  },
+  {
+    "objectID": "research/cybersecurity.html#selected-publications",
+    "href": "research/cybersecurity.html#selected-publications",
+    "title": "AI for Cybersecurity & AI Safety",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nZero-Shot Network Intrusion Detection Using Semantic Learning and CVAE Augmentation H. Ogamba, K. Hasan, S. Mansour. IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT, 2026. DOI\nBenchmarking the Effectiveness of AI-Driven Red Teaming Across Safety-Aligned Language Models J. Malicha, K. Hasan. IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT, 2026. DOI\nFull-text links are pending."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research develops generalizable and trustworthy AI methods and applies them to complex scientific and societal problems. I work with heterogeneous, limited, and uncertain data, including images, sensor observations, satellite imagery, text, and geospatial information, to build models that hold up beyond their training data.\n\n\n\nDiagram showing one research program, Generalizable and Trustworthy AI, branching into three tracks: machine learning from weak and multimodal data, AI for cybersecurity and AI safety, and AI for scientific and societal applications.\n\n\n\n\nGeneralizable & Trustworthy Machine Learning\nMachine learning and AI methods that generalize beyond their training data and work with limited, heterogeneous, uncertain, or multimodal data.\nExplore this track →\n\n\nAI for Cybersecurity & AI Safety\nApplying AI to cybersecurity, and building secure and trustworthy AI systems, including zero-day threat detection and LLM red teaming.\nExplore this track →\n\n\nAI for Scientific & Societal Applications\nData-driven methods for precision agriculture, environmental and climate analytics, and healthcare.\nExplore this track →"
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Replace the placeholders below with your real background, or swap this page for a link to a downloadable PDF resume."
+    "text": "Kamrul Hasan Assistant Professor, Department of Information Sciences and Technologies, College of Computing, Grand Valley State University, Allendale, MI 49401 hasanka@gvsu.edu · Google Scholar · GitHub"
+  },
+  {
+    "objectID": "cv.html#research-profile",
+    "href": "cv.html#research-profile",
+    "title": "CV",
+    "section": "Research Profile",
+    "text": "Research Profile\nAI/ML researcher with 15+ years of academic and industry experience in machine learning, deep learning, generative AI, data mining, and multimodal learning. Current research focuses on AI-driven solutions for precision agriculture, environmental monitoring, healthcare, and other data-intensive applications, building on extensive experience solving real-world problems in academia and industry. Scholarly contributions include 20+ peer-reviewed journal and conference articles, a U.S. provisional patent, competitive research funding, and peer-review service for leading AI/ML conferences and journals.\nResearch interests: Generative AI · Deep Learning · NLP · Computer Vision · Precision Agriculture · Environmental Monitoring · Healthcare AI · Data Mining"
+  },
+  {
+    "objectID": "cv.html#academic-appointments",
+    "href": "cv.html#academic-appointments",
+    "title": "CV",
+    "section": "Academic Appointments",
+    "text": "Academic Appointments\nAssistant Professor, College of Computing, Grand Valley State University, Allendale, MI · Aug 2023 – present Research focus: Generative AI, Deep Learning, Precision Agriculture, and Cybersecurity. Courses taught: CIS 263 Data Structures and Algorithms · SE 413/513 Software Testing · CIS 467 Computer Science Project · CIS 635 Knowledge Discovery and Data Mining · CIS 678 Machine Learning · CIS 692 Master’s Capstone · CIS 693 Master’s Project · CIS 695 Master’s Thesis\nAssistant Professor, Department of Computer Science and Engineering, University of Rajshahi, Bangladesh · Dec 2002 – Aug 2012 Taught graduate and undergraduate courses (Data Structures, Automata Theory & Compiler Design, Digital Signal Processing, Data Mining and Warehousing); developed computational resources for the Bengali language.\nLecturer, Department of Computer Science and Engineering, Rajshahi University of Engineering and Technology, Bangladesh · Oct 2001 – Dec 2002 Lectured B.Eng. courses (OOP, DBMS, Computer Networks, AI & Expert Systems)."
+  },
+  {
+    "objectID": "cv.html#industry-and-research-experience",
+    "href": "cv.html#industry-and-research-experience",
+    "title": "CV",
+    "section": "Industry and Research Experience",
+    "text": "Industry and Research Experience\nPrincipal Data Scientist, IVADO Labs, Montréal, QC · Nov 2018 – Aug 2023 Led interdisciplinary teams of scientists and engineers on applied AI projects:\n\nAircraft predictive maintenance (condition monitoring, diagnostics, prognostics).\nAirline booking demand forecasting, no-show prediction, and revenue optimization.\nCritical cargo identification in busy seaports during COVID-19 using NLP.\nIn-canopy temperature prediction for precision farming.\n\nData Mining Researcher, JDA Software (now Blue Yonder), Scottsdale, AZ · Jan 2015 – Sep 2018 Core contributor to AI integration in supply-chain solutions:\n\nCognitive Demand: Deep RNN model for demand forecasting.\nPreference-oriented customer segmentation and intelligent store clustering.\nOut-of-stock detection on retail shelves via computer vision.\nFashion trend prediction through social media signal analysis.\n\nPostdoctoral Fellow (Mitacs Elevate Award), École Polytechnique, Université de Montréal, QC · Aug 2014 – Dec 2014 Applied CNNs and deep learning to automate out-of-stock and share-of-shelf detection on retail store shelves.\nPh.D. Research Assistant, École Polytechnique, Université de Montréal, QC · Sep 2009 – Jul 2014 Developed advanced probabilistic models (Bayesian and Markov network-based) for high-dimensional data; designed a probabilistic smoothed zero-one loss binary classifier outperforming Logistic Regression and SVM baselines.\nResearch Associate, Institute of Information Science, Academia Sinica, Taipei, Taiwan · Sep 2005 – Jun 2007 Extended ISLE/MILE lexical standards from European to Asian languages (Mandarin, Taiwanese, Cantonese, Bangla, Malay) as part of a multilingual NLP group."
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "CV",
     "section": "Education",
-    "text": "Education\n\nDegree, Institution — Year"
+    "text": "Education\n\nPh.D., Computer Engineering, École Polytechnique, Université de Montréal (GPA 3.7/4.0) · Oct 2014\nM.Sc., Computer Science, University of Northern British Columbia (GPA 4.33/4.33) · May 2010\nM.Sc., Computer Science and Technology, University of Rajshahi, Bangladesh (1st Class) · Sep 2001\nB.Sc., Computer Science and Technology, University of Rajshahi, Bangladesh (1st Class) · Jul 2000"
   },
   {
-    "objectID": "cv.html#experience",
-    "href": "cv.html#experience",
+    "objectID": "cv.html#patent",
+    "href": "cv.html#patent",
     "title": "CV",
-    "section": "Experience",
-    "text": "Experience\n\nJob Title, Company — Years\n\nKey responsibility or achievement"
+    "section": "Patent",
+    "text": "Patent\n\nK. Hasan, M.-C. Côté. “Image Processing System for Deep Fashion Color Recognition.” U.S. Provisional Patent Application No. 62/478,211. March 2017."
   },
   {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
+    "objectID": "cv.html#book-chapter",
+    "href": "cv.html#book-chapter",
     "title": "CV",
-    "section": "Skills",
-    "text": "Skills\n\nSkill 1, Skill 2, Skill 3"
+    "section": "Book Chapter",
+    "text": "Book Chapter\n\nK. Hasan, C. Mutegi. “California Wildfires: Recent Trends and Future Projections.” Urban Resilience in the Dynamic Climates for the Built Environment and Well-Being. Springer Nature. (Accepted for publication, 2026)."
   },
   {
-    "objectID": "cv.html#publications",
-    "href": "cv.html#publications",
+    "objectID": "cv.html#journal-articles",
+    "href": "cv.html#journal-articles",
     "title": "CV",
-    "section": "Publications",
-    "text": "Publications\n\nPlaceholder publication citation"
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\nK. Hasan, C. Mutegi, A. Muiruri, P.K. Amudala, A. Njiyo. “Soil Moisture Prediction and Benchmark Reliability: A Review with Multi-Site SMAP–ISMN Analysis.” International Journal On Advances in Intelligent Systems, Vol. 19 Issue 1&2, 2026.\nK. Hasan, D. Juma. “Beyond Conventional Surveys: A Machine Learning Approach to Understanding Precision Agriculture Adoption in the U.S.” International Journal of Agricultural and Biosystems Engineering, World Academy of Science, Engineering and Technology, Vol. 20, Issue 02, 2026.\nK. Hasan, C. Pal. “A New Smooth Approximation to the Zero One Loss with a Probabilistic Interpretation.” ACM Transactions on Knowledge Discovery from Data (TKDD), 2019.\nD. Rim, S. Honari, K. Hasan, C. J. Pal. “Improving Facial Analysis and Performance Driven Animation through Disentangling Identity and Expression.” Image and Vision Computing, 52, 125–140, 2016.\nD. Rim, K. Hasan, F. Puech, C. Pal. “Learning from Weakly Labeled Faces and Video in the Wild.” Pattern Recognition, 48(3), 759–771, 2015."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "cv.html#selected-conference-articles",
+    "href": "cv.html#selected-conference-articles",
+    "title": "CV",
+    "section": "Selected Conference Articles",
+    "text": "Selected Conference Articles\n\nK. Hasan, N. Sakib. “Concussions among the NFL Injuries: Data Mining Insights from Publicly Available Datasets.” International Sports Engineering Association Conference, 2026.\nH. Ogamba, K. Hasan, S. Mansour. “Zero-Shot Network Intrusion Detection Using Semantic Learning and CVAE Augmentation.” IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT, 2026.\nJ. Malicha, K. Hasan. “Benchmarking the Effectiveness of AI-Driven Red Teaming Across Safety-Aligned Language Models.” IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT, 2026.\nK. Hasan, A. Muiruri. “Predictive Modeling of Soil Moisture: A Review of Benchmark Datasets, Their Strengths, and Limitations.” International Conference on Sustainable and Regenerative Farming (CSRF), 2025.\nP. Thatoi, R. Choudhary, A. L. Selvarathinam, S. D. S. Azariya, K. Hasan. “Towards Intelligent NICU Monitoring: Real-Time Anomaly Detection in Vital Signs Using Deep Learning Models.” 7th AI and Cloud Computing Conference, pp. 573–582, 2024.\nK. Muchira, H. Sabbineni, J. M. Bollarapu, K. Hasan. “Status of Malaria in the African Continent — Data Mining Insights from Heterogeneous but Interrelated Data Sources.” Computer Science and Information Technology (CSIT), 2024.\nA. Rai et al. (incl. K. Hasan). “Integrated Predictive Maintenance Tool for Business Aircrafts through Continuous Monitoring in Practice.” AGIFORS Annual Symposium, 2023.\nK. Hasan, C. Pal. “Experiments on Visual Information Extraction with the Faces of Wikipedia.” AAAI Conference on Artificial Intelligence, 2014.\nK. Hasan, S. Moalem, C. Pal. “Localizing Facial Keypoints with Global Descriptor Search, Neighbour Alignment and Locally Linear Models.” 300-W Workshop, ICCV, 2013.\nK. Hasan, C. Pal. “Creating a Big Data Resource from the Faces of Wikipedia.” NIPS BigVision Workshop, 2012.\nD. Rim, K. Hasan, C. Pal. “Semi-Supervised Learning for Wild Faces and Video.” British Machine Vision Conference (BMVC), 2011.\nK. Hasan, C. Pal. “Improving Alignment of Faces for Recognition.” IEEE ROSE, pp. 249–254, 2011.\nS.-F. Chung, T.-J. Jiang, K. Hasan, S. Lee, I.-L. Su, L. Prevot, C.-R. Huang. “Extending an International Lexical Framework for Asian Languages: Mandarin, Taiwanese, Cantonese, Bangla and Malay.” IWIC, 2007.\nL. Prevot, C.-R. Huang, K. Hasan, S. Lee, I.-L. Su, S.-F. Chung, T.-J. Jiang. “Meta-modeling and Standardization Issues for Asian Languages Lexical Resources.” TSTT, 2006."
+  },
+  {
+    "objectID": "cv.html#professional-service",
+    "href": "cv.html#professional-service",
+    "title": "CV",
+    "section": "Professional Service",
+    "text": "Professional Service\nRegularly invited to evaluate research for leading international AI/ML conferences and journals, including AAAI, ICLR, ICML, and NeurIPS.\nReviewer\n\nAAAI Conference on Artificial Intelligence, 2026–2027\nScientific Reports, Springer Nature, 2026\nJournal of Medical Internet Research (JMIR), 2025\nUbiquitous Learning: An International Journal, 2025\nThe Journal of Super Computing (JSC), 2024\nInternational Conference on Big Data and AI for Healthcare (ICBD), 2024\nInternational Conference on Learning Representations (ICLR), 2023–2024\nInternational Conference on Machine Learning (ICML), 2020–2022\nNeural Information Processing Systems (NeurIPS), 2021–2022\n\nProfessional Memberships\n\nAmerican Medical Informatics Association (AMIA), 2026 – present\nComputer and Information Engineering, World Academy of Science, Engineering and Technology, 2025 – present\nElectrical and Computer Engineering, World Academy of Science, Engineering and Technology, 2025 – present\nAirline Group of the International Federation of Operational Research Societies (AGIFORS), 2024 – present"
+  },
+  {
+    "objectID": "cv.html#student-mentorship-and-research-supervision",
+    "href": "cv.html#student-mentorship-and-research-supervision",
+    "title": "CV",
+    "section": "Student Mentorship and Research Supervision",
+    "text": "Student Mentorship and Research Supervision\nSince joining Grand Valley State University in 2023, I have supervised undergraduate and graduate research projects spanning machine learning and AI, data science, software engineering, healthcare, cybersecurity, and precision agriculture, several of which have led to scholarly publications and ongoing collaborations.\n\nUndergraduate mentorship: Supervised four undergraduate capstone students and currently supervise one undergraduate research assistant on an MSGC-funded project mapping urban heat islands and environmental inequity in West Michigan.\nCurrent thesis supervision: Supervise three graduate thesis students in CIS 695 working on Graph RAG models, obesity analytics for Michigan residents, and time-series deep learning models.\nCIS 692, Master’s Capstone: Co-instructed and supervised four students in two industry-oriented teams developing a Google Earth Engine-based GIS and a deep learning system for colonoscopy polyp detection.\nCIS 691, PSM Internship Supervision: Supervised five PSM interns on research-oriented projects in healthcare and precision agriculture, including dental implant failure prediction, precision agriculture sensor networks, and deep learning for skin disease detection. One project received the Best Project Award at the College of Computing Innovation Day (Health Informatics, Winter 2025).\nCIS 693, Master’s Projects: Supervised 14 Master’s projects across software engineering, data science, machine learning, generative AI, precision agriculture, retail forecasting, and AI safety. One project received the Best Project Award at the College of Computing Innovation Day (Applied Computer Science, Winter 2026)."
+  },
+  {
+    "objectID": "cv.html#selected-talks-and-demonstrations",
+    "href": "cv.html#selected-talks-and-demonstrations",
+    "title": "CV",
+    "section": "Selected Talks and Demonstrations",
+    "text": "Selected Talks and Demonstrations\n\nJune 2026 · “Concussion Patterns in NFL Injuries: Data Mining Insights from Publicly Available Datasets,” Washington State University\nApril 2026 · “Precision Agriculture Research at Grand Valley State University, An Introduction,” Traverse City, MI\nDec 2025 · “NextMeal AI,” GVSU Innovation Day – Deep Tech Competition, Grand Rapids, MI\nJul 2025 · “Demand Forecasting: Challenges and Opportunities,” Flexfab Collaborator Search, Grand Rapids, MI\nDec 2024 · “Higher Resolution Soil Moisture Prediction using Satellite Data,” GVSU Innovation Day, Grand Rapids, MI\nJul 2024 · “Status of Malaria in the African Continent — Data Mining Insights,” DMSE 2024, London, UK\nMar 2024 · “Generative AI via Amazon SageMaker Pipelining,” MI Career Quest, Grand Rapids, MI\nMay 2022 · “Data Augmentation for Air Passenger Demand Recovery Modeling,” Montreal Time Series Meetup"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "CV",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nLanguages: Python, C++, Java, MATLAB\nML / DL: TensorFlow, Keras, PyTorch, Spark ML, Azure ML, MLflow, MLOps\nBig Data: Apache Spark, Databricks, Delta Lake, BigQuery\nCloud: AWS, Azure, GCP\nDatabases: MySQL, Oracle, MS-SQL, BigQuery, MongoDB, Neo4j\nDevOps: Docker, Kubernetes, Git, SVN\nVisualization: Plotly, Dash, Matplotlib\nEnvironments: PyCharm, JupyterLab, Eclipse, IntelliJ, Visual Studio Code\n\nLast updated: October 4, 2026."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Replace these placeholders with your real projects.\n\n\nProject One\nShort description of the project. Repo\n\n\nProject Two\nShort description of the project. Repo"
+    "text": "Courses I am currently teaching at Grand Valley State University. Course repositories on GitHub contain lecture slides, notebooks, and other supporting materials; official announcements, assignments, and grades are handled through Blackboard."
+  },
+  {
+    "objectID": "teaching.html#fall-2026",
+    "href": "teaching.html#fall-2026",
+    "title": "Teaching",
+    "section": "Fall 2026",
+    "text": "Fall 2026\n\n\n\n\nCIS 635 — Data Mining and Knowledge Discovery\nAn introduction to computational methods for knowledge discovery and data mining, covering data preparation, exploratory data analysis, predictive modeling, clustering, and association analysis using Python.\n\nSyllabus\nSchedule\nLecture Slides & Notebooks\nGitHub Repository\n\n\n\n\n\n\nSE 413/513 — Software Testing\nAn introduction to fundamental software testing principles and their practical application using Python-based testing tools, covering test design, automation, and evaluation across the software development lifecycle.\n\nSyllabus\nSchedule\nLecture Slides\nGitHub Repository"
   },
   {
     "objectID": "index.html",
@@ -63,24 +168,66 @@
     "text": "Find Me Online\n\nGitHub\nLinkedIn"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "research/ml.html",
+    "href": "research/ml.html",
+    "title": "Generalizable & Trustworthy Machine Learning",
     "section": "",
-    "text": "Courses I am currently teaching at Grand Valley State University. Course repositories on GitHub contain lecture slides, notebooks, and other supporting materials; official announcements, assignments, and grades are handled through Blackboard."
+    "text": "← Back to Research\nMachine learning and AI methods that generalize beyond their training data and operate effectively with limited, heterogeneous, uncertain, or multimodal data.\nFigure: Effect of classifier complexity and noisy-label learning on a two-moons dataset. Unlabeled data helps the flexible RBF classifier far more than the linear one. Source: Rim, Hasan, Puech, and Pal (2015), Fig. 3."
   },
   {
-    "objectID": "teaching.html#fall-2026",
-    "href": "teaching.html#fall-2026",
-    "title": "Teaching",
-    "section": "Fall 2026",
-    "text": "Fall 2026\n\n\n\n\nCIS 635 — Data Mining and Knowledge Discovery\nAn introduction to computational methods for knowledge discovery and data mining, covering data preparation, exploratory data analysis, predictive modeling, clustering, and association analysis using Python.\n\nSyllabus\nSchedule\nLecture Slides & Notebooks\nGitHub Repository\n\n\n\n\n\n\nSE 413/513 — Software Testing\nAn introduction to fundamental software testing principles and their practical application using Python-based testing tools, covering test design, automation, and evaluation across the software development lifecycle.\n\nSyllabus\nSchedule\nLecture Slides\nGitHub Repository"
+    "objectID": "research/ml.html#research-topics",
+    "href": "research/ml.html#research-topics",
+    "title": "Generalizable & Trustworthy Machine Learning",
+    "section": "Research Topics",
+    "text": "Research Topics\n\nDeep and probabilistic machine learning\nSemi-supervised and weakly supervised learning\nGenerative AI and generative models\nMultimodal learning\nRepresentation learning\nRobustness, generalization, and trustworthy AI"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "research/ml.html#key-research-questions",
+    "href": "research/ml.html#key-research-questions",
+    "title": "Generalizable & Trustworthy Machine Learning",
+    "section": "Key Research Questions",
+    "text": "Key Research Questions\nDraft for your review.\n\nHow can models learn useful representations from weakly labeled or partially labeled data?\nHow can probabilistic and generative models stay reliable when data are limited or uncertain?"
+  },
+  {
+    "objectID": "research/ml.html#selected-publications",
+    "href": "research/ml.html#selected-publications",
+    "title": "Generalizable & Trustworthy Machine Learning",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nLearning from Weakly Labeled Faces and Video in the Wild D. Rim, K. Hasan, F. Puech, C. Pal. Pattern Recognition, 48(3), 759–771, 2015. DOI\nSemi-Supervised Learning for Wild Faces and Video D. Rim, K. Hasan, C. Pal. British Machine Vision Conference (BMVC), 2011. DOI\nImproving Facial Analysis and Performance Driven Animation through Disentangling Identity and Expression D. Rim, S. Honari, K. Hasan, C. J. Pal. Image and Vision Computing, 52, 125–140, 2016. DOI\nA New Smooth Approximation to the Zero One Loss with a Probabilistic Interpretation K. Hasan, C. Pal. ACM Transactions on Knowledge Discovery from Data (TKDD), 2019. DOI\nFull-text links are pending."
+  },
+  {
+    "objectID": "research/applications.html",
+    "href": "research/applications.html",
+    "title": "AI for Scientific & Societal Applications",
     "section": "",
-    "text": "Feel free to reach out:\n\nEmail: khasan.bd@gmail.com\nGitHub: github.com/mdkamrulhasan\nLinkedIn: add your LinkedIn URL"
+    "text": "← Back to Research\nApplying AI and data-driven methods to important scientific, environmental, agricultural, and healthcare problems.\nFigure: K-means clustering (k = 5) of U.S. states by historical agricultural sales trends. Source: Hasan and Juma (2026), Fig. 8.\nFigure: Average daily soil moisture from SMAP (surface and root-zone) compared with an ISMN in-situ station at Gaylord-9-SSW, Michigan. Source: Hasan and Muiruri (2025), Fig. 1."
+  },
+  {
+    "objectID": "research/applications.html#research-topics",
+    "href": "research/applications.html#research-topics",
+    "title": "AI for Scientific & Societal Applications",
+    "section": "Research Topics",
+    "text": "Research Topics\n\nPrecision agriculture\nSoil-moisture monitoring and prediction\nRemote sensing and Earth observation\nEnvironmental and climate analytics\nHealthcare and medical AI\nData-driven decision support"
+  },
+  {
+    "objectID": "research/applications.html#key-research-questions",
+    "href": "research/applications.html#key-research-questions",
+    "title": "AI for Scientific & Societal Applications",
+    "section": "Key Research Questions",
+    "text": "Key Research Questions\nDraft for your review.\n\nHow can satellite data and sparse local sensor networks improve soil-moisture prediction?\nHow can machine learning reveal patterns in heterogeneous public health and environmental data?"
+  },
+  {
+    "objectID": "research/applications.html#current-projects",
+    "href": "research/applications.html#current-projects",
+    "title": "AI for Scientific & Societal Applications",
+    "section": "Current Projects",
+    "text": "Current Projects\n\nMapping urban heat islands and environmental inequity in West Michigan\nHigher-resolution soil-moisture prediction using satellite data and sparse local sensor networks\nDevelopment and clinical validation of an AI-powered diagnostic tool for dental caries"
+  },
+  {
+    "objectID": "research/applications.html#selected-publications",
+    "href": "research/applications.html#selected-publications",
+    "title": "AI for Scientific & Societal Applications",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nSoil Moisture Prediction and Benchmark Reliability: A Review with Multi-Site SMAP–ISMN Analysis K. Hasan, C. Mutegi, A. Muiruri, P. K. Amudala, A. Njiyo. International Journal On Advances in Intelligent Systems, 19(1&2), 2026.\nBeyond Conventional Surveys: A Machine Learning Approach to Understanding Precision Agriculture Adoption in the U.S. K. Hasan, D. Juma. International Journal of Agricultural and Biosystems Engineering, 20(2), 2026.\nPredictive Modeling of Soil Moisture: A Review of Benchmark Datasets, Their Strengths, and Limitations K. Hasan, A. Muiruri. International Conference on Sustainable and Regenerative Farming (CSRF), 2025.\nTowards Intelligent NICU Monitoring: Real-Time Anomaly Detection in Vital Signs Using Deep Learning Models P. Thatoi, R. Choudhary, A. L. Selvarathinam, S. D. S. Azariya, K. Hasan. 7th AI and Cloud Computing Conference, pp. 573–582, 2024. DOI\nStatus of Malaria in the African Continent: Data Mining Insights from Heterogeneous but Interrelated Data Sources K. Muchira, H. Sabbineni, J. M. Bollarapu, K. Hasan. Computer Science and Information Technology (CSIT), 2024. DOI\nFull-text links and DOIs for the remaining papers are pending verification."
   }
 ]

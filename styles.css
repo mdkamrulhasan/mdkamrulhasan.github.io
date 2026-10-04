@@ -1,6 +1,16 @@
 /* css styles */
 
-.course-card {
+.profile-portrait {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 0 1.25rem 0;
+}
+
+.course-card,
+.research-card {
   border: 1px solid #e3e3e3;
   border-radius: 12px;
   padding: 1.25rem;
