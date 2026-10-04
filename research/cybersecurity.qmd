@@ -6,7 +6,7 @@ title: "AI for Cybersecurity & AI Safety"
 
 Applying AI to cybersecurity, and developing secure and trustworthy AI systems.
 
-![Dark-background diagram of an embedding space. A cluster of blue benign network nodes sits in one region and a cluster of red attack nodes sits in another. A dashed detector boundary separates them, and orange arrows show attack samples disguised as benign ones, crossing the boundary.](../images/research/cyber-hero-graphic.png){width=100%}
+![Dark-background diagram of an embedding space. A cluster of blue benign network nodes sits in one region and a cluster of red attack nodes sits in another. A dashed detector boundary separates them, and orange arrows show attack samples disguised as benign ones, crossing the boundary.](../images/research/cyber-hero-graphic.png){width=63% fig-align="center"}
 
 _Figure: Semantic mimicry: attacks disguised in the language of normal behavior cross a detector boundary designed to separate benign from malicious samples._
 

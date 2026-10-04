@@ -6,7 +6,7 @@ title: "Generalizable & Trustworthy Machine Learning"
 
 Machine learning and AI methods that generalize beyond their training data and operate effectively with limited, heterogeneous, uncertain, or multimodal data.
 
-![Four panels on a two-moons toy dataset. A linear classifier with labeled data only (a) and with unlabeled data (b) barely changes its boundary. A flexible RBF classifier with labeled data only (c) fits a smooth curve, while with unlabeled data (d) its boundary wraps around both moon-shaped classes.](../images/research/rim2015-fig3-complexity-noisy-labels.png){width=100%}
+![Four panels on a two-moons toy dataset. A linear classifier with labeled data only (a) and with unlabeled data (b) barely changes its boundary. A flexible RBF classifier with labeled data only (c) fits a smooth curve, while with unlabeled data (d) its boundary wraps around both moon-shaped classes.](../images/research/rim2015-fig3-complexity-noisy-labels.png){width=70% fig-align="center"}
 
 _Figure: Effect of classifier complexity and noisy-label learning on a two-moons dataset. Unlabeled data helps the flexible RBF classifier far more than the linear one. Source: Rim, Hasan, Puech, and Pal (2015), Fig. 3._
 

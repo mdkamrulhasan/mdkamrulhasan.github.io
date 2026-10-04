@@ -2,21 +2,148 @@
 title: "CV"
 ---
 
-> Replace the placeholders below with your real background, or swap this page for a link to a downloadable PDF resume.
+**Kamrul Hasan**
+Assistant Professor, Department of Information Sciences and Technologies, College of Computing, Grand Valley State University, Allendale, MI 49401
+hasanka@gvsu.edu · [Google Scholar](https://scholar.google.com/citations?user=uY57PPoAAAAJ&hl=en) · [GitHub](https://github.com/mdkamrulhasan)
+
+## Research Profile
+
+AI/ML researcher with 15+ years of academic and industry experience in machine learning, deep learning, generative AI, data mining, and multimodal learning. Current research focuses on AI-driven solutions for precision agriculture, environmental monitoring, healthcare, and other data-intensive applications, building on extensive experience solving real-world problems in academia and industry. Scholarly contributions include 20+ peer-reviewed journal and conference articles, a U.S. provisional patent, competitive research funding, and peer-review service for leading AI/ML conferences and journals.
+
+**Research interests:** Generative AI · Deep Learning · NLP · Computer Vision · Precision Agriculture · Environmental Monitoring · Healthcare AI · Data Mining
+
+## Academic Appointments
+
+**Assistant Professor**, College of Computing, Grand Valley State University, Allendale, MI · Aug 2023 – present
+Research focus: Generative AI, Deep Learning, Precision Agriculture, and Cybersecurity.
+Courses taught: CIS 263 Data Structures and Algorithms · SE 413/513 Software Testing · CIS 467 Computer Science Project · CIS 635 Knowledge Discovery and Data Mining · CIS 678 Machine Learning · CIS 692 Master's Capstone · CIS 693 Master's Project · CIS 695 Master's Thesis
+
+**Assistant Professor**, Department of Computer Science and Engineering, University of Rajshahi, Bangladesh · Dec 2002 – Aug 2012
+Taught graduate and undergraduate courses (Data Structures, Automata Theory & Compiler Design, Digital Signal Processing, Data Mining and Warehousing); developed computational resources for the Bengali language.
+
+**Lecturer**, Department of Computer Science and Engineering, Rajshahi University of Engineering and Technology, Bangladesh · Oct 2001 – Dec 2002
+Lectured B.Eng. courses (OOP, DBMS, Computer Networks, AI & Expert Systems).
+
+## Industry and Research Experience
+
+**Principal Data Scientist**, IVADO Labs, Montréal, QC · Nov 2018 – Aug 2023
+Led interdisciplinary teams of scientists and engineers on applied AI projects:
+
+- Aircraft predictive maintenance (condition monitoring, diagnostics, prognostics).
+- Airline booking demand forecasting, no-show prediction, and revenue optimization.
+- Critical cargo identification in busy seaports during COVID-19 using NLP.
+- In-canopy temperature prediction for precision farming.
+
+**Data Mining Researcher**, JDA Software (now Blue Yonder), Scottsdale, AZ · Jan 2015 – Sep 2018
+Core contributor to AI integration in supply-chain solutions:
+
+- Cognitive Demand: Deep RNN model for demand forecasting.
+- Preference-oriented customer segmentation and intelligent store clustering.
+- Out-of-stock detection on retail shelves via computer vision.
+- Fashion trend prediction through social media signal analysis.
+
+**Postdoctoral Fellow** (Mitacs Elevate Award), École Polytechnique, Université de Montréal, QC · Aug 2014 – Dec 2014
+Applied CNNs and deep learning to automate out-of-stock and share-of-shelf detection on retail store shelves.
+
+**Ph.D. Research Assistant**, École Polytechnique, Université de Montréal, QC · Sep 2009 – Jul 2014
+Developed advanced probabilistic models (Bayesian and Markov network-based) for high-dimensional data; designed a probabilistic smoothed zero-one loss binary classifier outperforming Logistic Regression and SVM baselines.
+
+**Research Associate**, Institute of Information Science, Academia Sinica, Taipei, Taiwan · Sep 2005 – Jun 2007
+Extended ISLE/MILE lexical standards from European to Asian languages (Mandarin, Taiwanese, Cantonese, Bangla, Malay) as part of a multilingual NLP group.
 
 ## Education
 
-- **Degree**, Institution — Year
+- **Ph.D., Computer Engineering**, École Polytechnique, Université de Montréal (GPA 3.7/4.0) · Oct 2014
+- **M.Sc., Computer Science**, University of Northern British Columbia (GPA 4.33/4.33) · May 2010
+- **M.Sc., Computer Science and Technology**, University of Rajshahi, Bangladesh (1st Class) · Sep 2001
+- **B.Sc., Computer Science and Technology**, University of Rajshahi, Bangladesh (1st Class) · Jul 2000
 
-## Experience
+## Patent
 
-- **Job Title**, Company — Years
-  - Key responsibility or achievement
+- K. Hasan, M.-C. Côté. "Image Processing System for Deep Fashion Color Recognition." U.S. Provisional Patent Application No. 62/478,211. March 2017.
 
-## Skills
+## Book Chapter
 
-- Skill 1, Skill 2, Skill 3
+- K. Hasan, C. Mutegi. "California Wildfires: Recent Trends and Future Projections." _Urban Resilience in the Dynamic Climates for the Built Environment and Well-Being_. Springer Nature. (Accepted for publication, 2026).
 
-## Publications
+## Journal Articles
 
-- Placeholder publication citation
+- K. Hasan, C. Mutegi, A. Muiruri, P.K. Amudala, A. Njiyo. "Soil Moisture Prediction and Benchmark Reliability: A Review with Multi-Site SMAP–ISMN Analysis." _International Journal On Advances in Intelligent Systems_, Vol. 19 Issue 1&2, 2026.
+- K. Hasan, D. Juma. "Beyond Conventional Surveys: A Machine Learning Approach to Understanding Precision Agriculture Adoption in the U.S." _International Journal of Agricultural and Biosystems Engineering_, World Academy of Science, Engineering and Technology, Vol. 20, Issue 02, 2026.
+- K. Hasan, C. Pal. "A New Smooth Approximation to the Zero One Loss with a Probabilistic Interpretation." _ACM Transactions on Knowledge Discovery from Data (TKDD)_, 2019.
+- D. Rim, S. Honari, K. Hasan, C. J. Pal. "Improving Facial Analysis and Performance Driven Animation through Disentangling Identity and Expression." _Image and Vision Computing_, 52, 125–140, 2016.
+- D. Rim, K. Hasan, F. Puech, C. Pal. "Learning from Weakly Labeled Faces and Video in the Wild." _Pattern Recognition_, 48(3), 759–771, 2015.
+
+## Selected Conference Articles
+
+- K. Hasan, N. Sakib. "Concussions among the NFL Injuries: Data Mining Insights from Publicly Available Datasets." International Sports Engineering Association Conference, 2026.
+- H. Ogamba, K. Hasan, S. Mansour. "Zero-Shot Network Intrusion Detection Using Semantic Learning and CVAE Augmentation." IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT, 2026.
+- J. Malicha, K. Hasan. "Benchmarking the Effectiveness of AI-Driven Red Teaming Across Safety-Aligned Language Models." IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT, 2026.
+- K. Hasan, A. Muiruri. "Predictive Modeling of Soil Moisture: A Review of Benchmark Datasets, Their Strengths, and Limitations." International Conference on Sustainable and Regenerative Farming (CSRF), 2025.
+- P. Thatoi, R. Choudhary, A. L. Selvarathinam, S. D. S. Azariya, K. Hasan. "Towards Intelligent NICU Monitoring: Real-Time Anomaly Detection in Vital Signs Using Deep Learning Models." 7th AI and Cloud Computing Conference, pp. 573–582, 2024.
+- K. Muchira, H. Sabbineni, J. M. Bollarapu, K. Hasan. "Status of Malaria in the African Continent — Data Mining Insights from Heterogeneous but Interrelated Data Sources." Computer Science and Information Technology (CSIT), 2024.
+- A. Rai et al. (incl. K. Hasan). "Integrated Predictive Maintenance Tool for Business Aircrafts through Continuous Monitoring in Practice." AGIFORS Annual Symposium, 2023.
+- K. Hasan, C. Pal. "Experiments on Visual Information Extraction with the Faces of Wikipedia." AAAI Conference on Artificial Intelligence, 2014.
+- K. Hasan, S. Moalem, C. Pal. "Localizing Facial Keypoints with Global Descriptor Search, Neighbour Alignment and Locally Linear Models." 300-W Workshop, ICCV, 2013.
+- K. Hasan, C. Pal. "Creating a Big Data Resource from the Faces of Wikipedia." NIPS BigVision Workshop, 2012.
+- D. Rim, K. Hasan, C. Pal. "Semi-Supervised Learning for Wild Faces and Video." British Machine Vision Conference (BMVC), 2011.
+- K. Hasan, C. Pal. "Improving Alignment of Faces for Recognition." IEEE ROSE, pp. 249–254, 2011.
+- S.-F. Chung, T.-J. Jiang, K. Hasan, S. Lee, I.-L. Su, L. Prevot, C.-R. Huang. "Extending an International Lexical Framework for Asian Languages: Mandarin, Taiwanese, Cantonese, Bangla and Malay." IWIC, 2007.
+- L. Prevot, C.-R. Huang, K. Hasan, S. Lee, I.-L. Su, S.-F. Chung, T.-J. Jiang. "Meta-modeling and Standardization Issues for Asian Languages Lexical Resources." TSTT, 2006.
+
+## Professional Service
+
+Regularly invited to evaluate research for leading international AI/ML conferences and journals, including AAAI, ICLR, ICML, and NeurIPS.
+
+**Reviewer**
+
+- AAAI Conference on Artificial Intelligence, 2026–2027
+- Scientific Reports, Springer Nature, 2026
+- Journal of Medical Internet Research (JMIR), 2025
+- Ubiquitous Learning: An International Journal, 2025
+- The Journal of Super Computing (JSC), 2024
+- International Conference on Big Data and AI for Healthcare (ICBD), 2024
+- International Conference on Learning Representations (ICLR), 2023–2024
+- International Conference on Machine Learning (ICML), 2020–2022
+- Neural Information Processing Systems (NeurIPS), 2021–2022
+
+**Professional Memberships**
+
+- American Medical Informatics Association (AMIA), 2026 – present
+- Computer and Information Engineering, World Academy of Science, Engineering and Technology, 2025 – present
+- Electrical and Computer Engineering, World Academy of Science, Engineering and Technology, 2025 – present
+- Airline Group of the International Federation of Operational Research Societies (AGIFORS), 2024 – present
+
+## Student Mentorship and Research Supervision
+
+Since joining Grand Valley State University in 2023, I have supervised undergraduate and graduate research projects spanning machine learning and AI, data science, software engineering, healthcare, cybersecurity, and precision agriculture, several of which have led to scholarly publications and ongoing collaborations.
+
+- **Undergraduate mentorship:** Supervised four undergraduate capstone students and currently supervise one undergraduate research assistant on an MSGC-funded project mapping urban heat islands and environmental inequity in West Michigan.
+- **Current thesis supervision:** Supervise three graduate thesis students in CIS 695 working on Graph RAG models, obesity analytics for Michigan residents, and time-series deep learning models.
+- **CIS 692, Master's Capstone:** Co-instructed and supervised four students in two industry-oriented teams developing a Google Earth Engine-based GIS and a deep learning system for colonoscopy polyp detection.
+- **CIS 691, PSM Internship Supervision:** Supervised five PSM interns on research-oriented projects in healthcare and precision agriculture, including dental implant failure prediction, precision agriculture sensor networks, and deep learning for skin disease detection. One project received the Best Project Award at the College of Computing Innovation Day (Health Informatics, Winter 2025).
+- **CIS 693, Master's Projects:** Supervised 14 Master's projects across software engineering, data science, machine learning, generative AI, precision agriculture, retail forecasting, and AI safety. One project received the Best Project Award at the College of Computing Innovation Day (Applied Computer Science, Winter 2026).
+
+## Selected Talks and Demonstrations
+
+- June 2026 · "Concussion Patterns in NFL Injuries: Data Mining Insights from Publicly Available Datasets," Washington State University
+- April 2026 · "Precision Agriculture Research at Grand Valley State University, An Introduction," Traverse City, MI
+- Dec 2025 · "NextMeal AI," GVSU Innovation Day – Deep Tech Competition, Grand Rapids, MI
+- Jul 2025 · "Demand Forecasting: Challenges and Opportunities," Flexfab Collaborator Search, Grand Rapids, MI
+- Dec 2024 · "Higher Resolution Soil Moisture Prediction using Satellite Data," GVSU Innovation Day, Grand Rapids, MI
+- Jul 2024 · "Status of Malaria in the African Continent — Data Mining Insights," DMSE 2024, London, UK
+- Mar 2024 · "Generative AI via Amazon SageMaker Pipelining," MI Career Quest, Grand Rapids, MI
+- May 2022 · "Data Augmentation for Air Passenger Demand Recovery Modeling," Montreal Time Series Meetup
+
+## Technical Skills
+
+- **Languages:** Python, C++, Java, MATLAB
+- **ML / DL:** TensorFlow, Keras, PyTorch, Spark ML, Azure ML, MLflow, MLOps
+- **Big Data:** Apache Spark, Databricks, Delta Lake, BigQuery
+- **Cloud:** AWS, Azure, GCP
+- **Databases:** MySQL, Oracle, MS-SQL, BigQuery, MongoDB, Neo4j
+- **DevOps:** Docker, Kubernetes, Git, SVN
+- **Visualization:** Plotly, Dash, Matplotlib
+- **Environments:** PyCharm, JupyterLab, Eclipse, IntelliJ, Visual Studio Code
+
+_Last updated: October 4, 2026._

@@ -6,11 +6,11 @@ title: "AI for Scientific & Societal Applications"
 
 Applying AI and data-driven methods to important scientific, environmental, agricultural, and healthcare problems.
 
-![Map of the United States with states colored by one of five clusters, grouping states with similar historical agricultural sales trends.](../images/research/precision-ag-kmeans-clusters.png){width=100%}
+![Map of the United States with states colored by one of five clusters, grouping states with similar historical agricultural sales trends.](../images/research/precision-ag-kmeans-clusters.png){width=85% fig-align="center"}
 
 _Figure: K-means clustering (k = 5) of U.S. states by historical agricultural sales trends. Source: Hasan and Juma (2026), Fig. 8._
 
-![Line chart of average daily soil moisture from SMAP surface and root-zone products compared with an ISMN in-situ station in Gaylord, Michigan, from January 2023 to January 2025.](../images/research/soil-moisture-smap-vs-ismn.png){width=100%}
+![Line chart of average daily soil moisture from SMAP surface and root-zone products compared with an ISMN in-situ station in Gaylord, Michigan, from January 2023 to January 2025.](../images/research/soil-moisture-smap-vs-ismn.png){width=77% fig-align="center"}
 
 _Figure: Average daily soil moisture from SMAP (surface and root-zone) compared with an ISMN in-situ station at Gaylord-9-SSW, Michigan. Source: Hasan and Muiruri (2025), Fig. 1._
 

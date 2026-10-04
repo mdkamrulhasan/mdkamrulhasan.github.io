@@ -2,6 +2,8 @@
 title: "Md Kamrul Hasan"
 ---
 
+<img src="images/profile.jpg" class="profile-portrait" alt="Black-and-white portrait of Md Kamrul Hasan">
+
 **Assistant Professor | AI & Machine Learning Researcher**
 
 ## About Me
