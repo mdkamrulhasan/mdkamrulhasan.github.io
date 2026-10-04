@@ -22,8 +22,6 @@ _Figure: Semantic mimicry: attacks disguised in the language of normal behavior 
 
 ## Key Research Questions
 
-_Draft for your review._
-
 - How can intrusion detection identify attack classes never seen during training?
 - How can LLM-based systems be evaluated for safety failures through automated red teaming?
 
@@ -35,4 +33,3 @@ H. Ogamba, K. Hasan, S. Mansour. _IEEE Conference on Secure and Trustworthy Cybe
 **Benchmarking the Effectiveness of AI-Driven Red Teaming Across Safety-Aligned Language Models**
 J. Malicha, K. Hasan. _IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT_, 2026. [DOI](https://doi.org/10.1109/satc69565.2026.11542221)
 
-_Full-text links are pending._

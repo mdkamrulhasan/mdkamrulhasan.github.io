@@ -21,8 +21,6 @@ _Figure: Effect of classifier complexity and noisy-label learning on a two-moons
 
 ## Key Research Questions
 
-_Draft for your review._
-
 - How can models learn useful representations from weakly labeled or partially labeled data?
 - How can probabilistic and generative models stay reliable when data are limited or uncertain?
 
@@ -40,4 +38,3 @@ D. Rim, S. Honari, K. Hasan, C. J. Pal. _Image and Vision Computing_, 52, 125–
 **A New Smooth Approximation to the Zero One Loss with a Probabilistic Interpretation**
 K. Hasan, C. Pal. _ACM Transactions on Knowledge Discovery from Data (TKDD)_, 2019. [DOI](https://doi.org/10.1145/3365672)
 
-_Full-text links are pending._

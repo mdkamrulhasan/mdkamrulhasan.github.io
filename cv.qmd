@@ -53,10 +53,10 @@ Extended ISLE/MILE lexical standards from European to Asian languages (Mandarin,
 
 ## Education
 
-- **Ph.D., Computer Engineering**, École Polytechnique, Université de Montréal (GPA 3.7/4.0) · Oct 2014
-- **M.Sc., Computer Science**, University of Northern British Columbia (GPA 4.33/4.33) · May 2010
-- **M.Sc., Computer Science and Technology**, University of Rajshahi, Bangladesh (1st Class) · Sep 2001
-- **B.Sc., Computer Science and Technology**, University of Rajshahi, Bangladesh (1st Class) · Jul 2000
+- **Ph.D., Computer Engineering**, École Polytechnique, Université de Montréal · Oct 2014
+- **M.Sc., Computer Science**, University of Northern British Columbia · May 2010
+- **M.Sc., Computer Science and Technology**, University of Rajshahi, Bangladesh · Sep 2001
+- **B.Sc., Computer Science and Technology**, University of Rajshahi, Bangladesh · Jul 2000
 
 ## Patent
 
