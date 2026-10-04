@@ -25,14 +25,14 @@
     "href": "research/cybersecurity.html#key-research-questions",
     "title": "AI for Cybersecurity & AI Safety",
     "section": "Key Research Questions",
-    "text": "Key Research Questions\nDraft for your review.\n\nHow can intrusion detection identify attack classes never seen during training?\nHow can LLM-based systems be evaluated for safety failures through automated red teaming?"
+    "text": "Key Research Questions\n\nHow can intrusion detection identify attack classes never seen during training?\nHow can LLM-based systems be evaluated for safety failures through automated red teaming?"
   },
   {
     "objectID": "research/cybersecurity.html#selected-publications",
     "href": "research/cybersecurity.html#selected-publications",
     "title": "AI for Cybersecurity & AI Safety",
     "section": "Selected Publications",
-    "text": "Selected Publications\nZero-Shot Network Intrusion Detection Using Semantic Learning and CVAE Augmentation H. Ogamba, K. Hasan, S. Mansour. IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT, 2026. DOI\nBenchmarking the Effectiveness of AI-Driven Red Teaming Across Safety-Aligned Language Models J. Malicha, K. Hasan. IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT, 2026. DOI\nFull-text links are pending."
+    "text": "Selected Publications\nZero-Shot Network Intrusion Detection Using Semantic Learning and CVAE Augmentation H. Ogamba, K. Hasan, S. Mansour. IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT, 2026. DOI\nBenchmarking the Effectiveness of AI-Driven Red Teaming Across Safety-Aligned Language Models J. Malicha, K. Hasan. IEEE Conference on Secure and Trustworthy Cyber Infrastructure for IoT, 2026. DOI"
   },
   {
     "objectID": "research/index.html",
@@ -74,7 +74,7 @@
     "href": "cv.html#education",
     "title": "CV",
     "section": "Education",
-    "text": "Education\n\nPh.D., Computer Engineering, École Polytechnique, Université de Montréal (GPA 3.7/4.0) · Oct 2014\nM.Sc., Computer Science, University of Northern British Columbia (GPA 4.33/4.33) · May 2010\nM.Sc., Computer Science and Technology, University of Rajshahi, Bangladesh (1st Class) · Sep 2001\nB.Sc., Computer Science and Technology, University of Rajshahi, Bangladesh (1st Class) · Jul 2000"
+    "text": "Education\n\nPh.D., Computer Engineering, École Polytechnique, Université de Montréal · Oct 2014\nM.Sc., Computer Science, University of Northern British Columbia · May 2010\nM.Sc., Computer Science and Technology, University of Rajshahi, Bangladesh · Sep 2001\nB.Sc., Computer Science and Technology, University of Rajshahi, Bangladesh · Jul 2000"
   },
   {
     "objectID": "cv.html#patent",
@@ -186,14 +186,14 @@
     "href": "research/ml.html#key-research-questions",
     "title": "Generalizable & Trustworthy Machine Learning",
     "section": "Key Research Questions",
-    "text": "Key Research Questions\nDraft for your review.\n\nHow can models learn useful representations from weakly labeled or partially labeled data?\nHow can probabilistic and generative models stay reliable when data are limited or uncertain?"
+    "text": "Key Research Questions\n\nHow can models learn useful representations from weakly labeled or partially labeled data?\nHow can probabilistic and generative models stay reliable when data are limited or uncertain?"
   },
   {
     "objectID": "research/ml.html#selected-publications",
     "href": "research/ml.html#selected-publications",
     "title": "Generalizable & Trustworthy Machine Learning",
     "section": "Selected Publications",
-    "text": "Selected Publications\nLearning from Weakly Labeled Faces and Video in the Wild D. Rim, K. Hasan, F. Puech, C. Pal. Pattern Recognition, 48(3), 759–771, 2015. DOI\nSemi-Supervised Learning for Wild Faces and Video D. Rim, K. Hasan, C. Pal. British Machine Vision Conference (BMVC), 2011. DOI\nImproving Facial Analysis and Performance Driven Animation through Disentangling Identity and Expression D. Rim, S. Honari, K. Hasan, C. J. Pal. Image and Vision Computing, 52, 125–140, 2016. DOI\nA New Smooth Approximation to the Zero One Loss with a Probabilistic Interpretation K. Hasan, C. Pal. ACM Transactions on Knowledge Discovery from Data (TKDD), 2019. DOI\nFull-text links are pending."
+    "text": "Selected Publications\nLearning from Weakly Labeled Faces and Video in the Wild D. Rim, K. Hasan, F. Puech, C. Pal. Pattern Recognition, 48(3), 759–771, 2015. DOI\nSemi-Supervised Learning for Wild Faces and Video D. Rim, K. Hasan, C. Pal. British Machine Vision Conference (BMVC), 2011. DOI\nImproving Facial Analysis and Performance Driven Animation through Disentangling Identity and Expression D. Rim, S. Honari, K. Hasan, C. J. Pal. Image and Vision Computing, 52, 125–140, 2016. DOI\nA New Smooth Approximation to the Zero One Loss with a Probabilistic Interpretation K. Hasan, C. Pal. ACM Transactions on Knowledge Discovery from Data (TKDD), 2019. DOI"
   },
   {
     "objectID": "research/applications.html",
@@ -214,7 +214,7 @@
     "href": "research/applications.html#key-research-questions",
     "title": "AI for Scientific & Societal Applications",
     "section": "Key Research Questions",
-    "text": "Key Research Questions\nDraft for your review.\n\nHow can satellite data and sparse local sensor networks improve soil-moisture prediction?\nHow can machine learning reveal patterns in heterogeneous public health and environmental data?"
+    "text": "Key Research Questions\n\nHow can satellite data and sparse local sensor networks improve soil-moisture prediction?\nHow can machine learning reveal patterns in heterogeneous public health and environmental data?"
   },
   {
     "objectID": "research/applications.html#current-projects",
@@ -228,6 +228,6 @@
     "href": "research/applications.html#selected-publications",
     "title": "AI for Scientific & Societal Applications",
     "section": "Selected Publications",
-    "text": "Selected Publications\nSoil Moisture Prediction and Benchmark Reliability: A Review with Multi-Site SMAP–ISMN Analysis K. Hasan, C. Mutegi, A. Muiruri, P. K. Amudala, A. Njiyo. International Journal On Advances in Intelligent Systems, 19(1&2), 2026.\nBeyond Conventional Surveys: A Machine Learning Approach to Understanding Precision Agriculture Adoption in the U.S. K. Hasan, D. Juma. International Journal of Agricultural and Biosystems Engineering, 20(2), 2026.\nPredictive Modeling of Soil Moisture: A Review of Benchmark Datasets, Their Strengths, and Limitations K. Hasan, A. Muiruri. International Conference on Sustainable and Regenerative Farming (CSRF), 2025.\nTowards Intelligent NICU Monitoring: Real-Time Anomaly Detection in Vital Signs Using Deep Learning Models P. Thatoi, R. Choudhary, A. L. Selvarathinam, S. D. S. Azariya, K. Hasan. 7th AI and Cloud Computing Conference, pp. 573–582, 2024. DOI\nStatus of Malaria in the African Continent: Data Mining Insights from Heterogeneous but Interrelated Data Sources K. Muchira, H. Sabbineni, J. M. Bollarapu, K. Hasan. Computer Science and Information Technology (CSIT), 2024. DOI\nFull-text links and DOIs for the remaining papers are pending verification."
+    "text": "Selected Publications\nSoil Moisture Prediction and Benchmark Reliability: A Review with Multi-Site SMAP–ISMN Analysis K. Hasan, C. Mutegi, A. Muiruri, P. K. Amudala, A. Njiyo. International Journal On Advances in Intelligent Systems, 19(1&2), 2026.\nBeyond Conventional Surveys: A Machine Learning Approach to Understanding Precision Agriculture Adoption in the U.S. K. Hasan, D. Juma. International Journal of Agricultural and Biosystems Engineering, 20(2), 2026.\nPredictive Modeling of Soil Moisture: A Review of Benchmark Datasets, Their Strengths, and Limitations K. Hasan, A. Muiruri. International Conference on Sustainable and Regenerative Farming (CSRF), 2025.\nTowards Intelligent NICU Monitoring: Real-Time Anomaly Detection in Vital Signs Using Deep Learning Models P. Thatoi, R. Choudhary, A. L. Selvarathinam, S. D. S. Azariya, K. Hasan. 7th AI and Cloud Computing Conference, pp. 573–582, 2024. DOI\nStatus of Malaria in the African Continent: Data Mining Insights from Heterogeneous but Interrelated Data Sources K. Muchira, H. Sabbineni, J. M. Bollarapu, K. Hasan. Computer Science and Information Technology (CSIT), 2024. DOI"
   }
 ]
